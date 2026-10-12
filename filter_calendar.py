@@ -25,6 +25,7 @@ CLIENTE_ID = "5a7313911017d5807879b4b4"
 MY_CLASS_CODE = "CL038"      # matches "Classe 38"
 MY_BATCH = "yellow"          # yellow, green, red or blue
 KEEP_UNLABELLED = True       # keep extra events that name no batch (club events, holidays)
+ALWAYS_KEEP_TITLES = {"FINANCIAL ACCOUNTING & CONTROL"}   # courses to keep whatever class they are filed under
 
 START = datetime(2026, 10, 3, 18, 30, tzinfo=timezone.utc)   # 4 Oct 2026, 00:00 IST
 END = datetime(2027, 3, 31, 18, 30, tzinfo=timezone.utc)
@@ -40,6 +41,8 @@ GENERIC_TITLES = {
     "ATTIVITA' EXTRA CURRICULARI", "EXTRACURRICULAR ACTIVITY",
     "ATTIVITA' DIDATTICA", "TEACHING ACTIVITY",
 }
+CLUB_PATTERN = re.compile(r"\bclubs?\b|\bprimary (and secondary )?(members?|only)\b|\bsecondary members?\b")
+SPECIAL_REASONS = {"club", "exam", "always keep", "no class listed"}
 ALL_HANDS = re.compile(r"all batches|all batch|for all|full class|imb ?9 all|all of imb")
 
 
@@ -157,12 +160,25 @@ def decide(imp):
     titles = {(imp.get("nome") or "").upper(), (imp.get("nome_EN") or "").upper()}
     generic = bool(titles & GENERIC_TITLES)
 
+    # Exams are cohort-wide, so never drop them for being filed under another class.
+    if any(t.startswith("EXAM") for t in titles):
+        return True, "exam"
+    # Anything marked for any club is kept, whatever the batch.
+    if CLUB_PATTERN.search(note):
+        return True, "club"
+    # Courses you asked to always keep.
+    if titles & ALWAYS_KEEP_TITLES:
+        return True, "always keep"
+
     if generic or mentioned or all_hands:
         if MY_BATCH in mentioned or all_hands:
             return True, "my batch / everyone"
         if mentioned:
             return False, "other batch"
         return KEEP_UNLABELLED, "no batch named"
+
+    if not partitions(imp):
+        return True, "no class listed"
     return (True, "my class") if is_my_class(imp) else (False, "other class")
 
 
@@ -265,12 +281,16 @@ def main():
 
     print("Statuses seen:", dict(Counter(i.get("stato") for i in items)))
     kept, dropped = [], Counter()
-    kept_titles = Counter()
+    kept_titles, special, always_labels = Counter(), Counter(), set()
     for imp in items:
         keep, why = decide(imp)
         if keep:
             kept.append(imp)
             kept_titles[title_of(imp)] += 1
+            if why in SPECIAL_REASONS:
+                special[(title_of(imp), why)] += 1
+            if why == "always keep":
+                always_labels.add(", ".join(sorted({d for _, d in partitions(imp)})) or "none")
         else:
             dropped[(title_of(imp), why)] += 1
 
@@ -282,6 +302,12 @@ def main():
     print("Dropped by title and reason:")
     for (t, why), n in dropped.most_common():
         print(f"  {n:3d}  {t}  [{why}]")
+
+    print("Kept through special rules (exams, clubs, always-keep, no class listed):")
+    for (t, why), n in special.most_common():
+        print(f"  {n:3d}  {t}  [{why}]")
+    if always_labels:
+        print("Class labels on always-keep sessions:", "; ".join(sorted(always_labels)))
 
     if not kept:
         print("ERROR: nothing matched your class. Existing file left untouched.")
