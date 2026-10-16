@@ -732,11 +732,11 @@ DESCRIPTION:Note: Guest Lecture - “From Global Shipping to Career Growth:
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6acdfcd02612ac0019ae2240@bocconi-planner
-DTSTAMP:20261013T094147Z
-LAST-MODIFIED:20261013T094147Z
+UID:6ad06945b98f74003c0a49f7@bocconi-planner
+DTSTAMP:20261015T054914Z
+LAST-MODIFIED:20261015T054914Z
 DTSTART:20261023T033000Z
-DTEND:20261023T065000Z
+DTEND:20261023T063000Z
 SUMMARY:Project Management
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Marco Sampietro
@@ -845,6 +845,21 @@ SUMMARY:Extracurricular Activity: L&D session - Consulting Club - IMB9 All
 LOCATION:Classroom 8 - SDA Asia center
 DESCRIPTION:Note: L&D session - Consulting Club - IMB9 All Batches - Classr
  oom 8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad09540e6f57900cc58e01a@bocconi-planner
+DTSTAMP:20261015T085756Z
+LAST-MODIFIED:20261015T085756Z
+DTSTART:20261026T110000Z
+DTEND:20261026T123000Z
+SUMMARY:Extracurricular Activity: GL- RBI Monetary Policy & Bond Markets: H
+ ow Interest Rates Drive Bond Prices\, Yields and Investment Decisions - Fi
+ nance Club both primary and secondary members - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: GL- RBI Monetary Policy & Bond Markets: How Interest Rate
+ s Drive Bond Prices\, Yields and Investment Decisions - Finance Club both 
+ primary and secondary members - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
