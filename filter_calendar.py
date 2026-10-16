@@ -25,7 +25,8 @@ CLIENTE_ID = "5a7313911017d5807879b4b4"
 MY_CLASS_CODE = "CL038"      # matches "Classe 38"
 MY_BATCH = "yellow"          # yellow, green, red or blue
 KEEP_UNLABELLED = True       # keep extra events that name no batch (club events, holidays)
-ALWAYS_KEEP_TITLES = {"FINANCIAL ACCOUNTING & CONTROL"}   # courses to keep whatever class they are filed under
+ALWAYS_KEEP_TITLES = set()   # courses to keep whatever class they are filed under (empty on purpose)
+WATCH_TITLES = {"FINANCIAL ACCOUNTING & CONTROL"}   # logged when dropped, so we can see which class they belong to
 
 START = datetime(2026, 10, 3, 18, 30, tzinfo=timezone.utc)   # 4 Oct 2026, 00:00 IST
 END = datetime(2027, 3, 31, 18, 30, tzinfo=timezone.utc)
@@ -282,6 +283,7 @@ def main():
     print("Statuses seen:", dict(Counter(i.get("stato") for i in items)))
     kept, dropped = [], Counter()
     kept_titles, special, always_labels = Counter(), Counter(), set()
+    watch = []
     for imp in items:
         keep, why = decide(imp)
         if keep:
@@ -293,6 +295,9 @@ def main():
                 always_labels.add(", ".join(sorted({d for _, d in partitions(imp)})) or "none")
         else:
             dropped[(title_of(imp), why)] += 1
+            if title_of(imp).upper() in WATCH_TITLES:
+                labels = ", ".join(sorted({d for _, d in partitions(imp)})) or "none"
+                watch.append((imp["dataInizio"][:10], labels))
 
     kept.sort(key=lambda i: i["dataInizio"])
     print(f"Total sessions: {len(items)} | kept: {len(kept)} | dropped: {len(items) - len(kept)}")
@@ -303,6 +308,10 @@ def main():
     for (t, why), n in dropped.most_common():
         print(f"  {n:3d}  {t}  [{why}]")
 
+    if watch:
+        print("Watched courses that were dropped (date, class labels):")
+        for d, lab in sorted(watch):
+            print(f"  {d}  {lab}")
     print("Kept through special rules (exams, clubs, always-keep, no class listed):")
     for (t, why), n in special.most_common():
         print(f"  {n:3d}  {t}  [{why}]")
