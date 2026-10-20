@@ -694,15 +694,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ace076173d4e20092594d4c@bocconi-planner
-DTSTAMP:20261016T104517Z
-LAST-MODIFIED:20261016T104517Z
+DTSTAMP:20261019T041341Z
+LAST-MODIFIED:20261019T041341Z
 DTSTART:20261021T120000Z
 DTEND:20261021T140000Z
 SUMMARY:Extracurricular Activity: BTC Club - Product Design & Thinking - Ma
- ndatory for Primary & Secondary Members & Blue Batch - Classroom 8
+ ndatory for Primary & Secondary Members & Blue Batch - Classroom 10
 LOCATION:Classroom 8 - SDA Asia center
 DESCRIPTION:Note: BTC Club - Product Design & Thinking - Mandatory for Prim
- ary & Secondary Members & Blue Batch - Classroom 8
+ ary & Secondary Members & Blue Batch - Classroom 10
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1212,19 +1212,6 @@ DESCRIPTION:Professor: Chandan Dasgupta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6acb0337b98f74003c09c6f3@bocconi-planner
-DTSTAMP:20261011T033250Z
-LAST-MODIFIED:20261011T033250Z
-DTSTART:20261122T043000Z
-DTEND:20261122T103000Z
-SUMMARY:Extracurricular Activity: HR Workforce club Event- HR1 Conclave - I
- MB9 - Classroom 7 & 8
-LOCATION:Classroom 7 - SDA Asia center
-DESCRIPTION:Note: HR Workforce club Event- HR1 Conclave - IMB9 - Classroom 
- 7 & 8
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6a1faded8ec7010014c4c110@bocconi-planner
 DTSTAMP:20260603T043058Z
 LAST-MODIFIED:20260603T043058Z
@@ -1355,6 +1342,18 @@ DTEND:20261205T074500Z
 SUMMARY:Financial Reporting
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Chandan Dasgupta
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ad5da9ebeceea015cb73975@bocconi-planner
+DTSTAMP:20261019T085536Z
+LAST-MODIFIED:20261019T085536Z
+DTSTART:20261206T043000Z
+DTEND:20261206T103000Z
+SUMMARY:Extracurricular Activity: HR Workforce club Event- HR1 Conclave - C
+ lassroom 7 & 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: HR Workforce club Event- HR1 Conclave - Classroom 7 & 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
