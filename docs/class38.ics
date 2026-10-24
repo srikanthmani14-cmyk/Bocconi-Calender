@@ -777,22 +777,11 @@ DESCRIPTION:Note: PPT - Celebal Technologies - IMB9 - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6a1e6cbd52078e0019761ca6@bocconi-planner
-DTSTAMP:20260602T054129Z
-LAST-MODIFIED:20260602T054129Z
-DTSTART:20261024T054500Z
-DTEND:20261024T074500Z
-SUMMARY:Financial Reporting
-LOCATION:Classroom 4 - SDA Asia center
-DESCRIPTION:Professor: Chandan Dasgupta
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6a1e667d7169260019d39485@bocconi-planner
-DTSTAMP:20260602T052548Z
-LAST-MODIFIED:20260602T052548Z
-DTSTART:20261024T083000Z
-DTEND:20261024T113000Z
+UID:6adb283099005301adc4d782@bocconi-planner
+DTSTAMP:20261023T092635Z
+LAST-MODIFIED:20261023T092635Z
+DTSTART:20261024T073000Z
+DTEND:20261024T103000Z
 SUMMARY:Project Management
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Marco Sampietro
@@ -800,28 +789,41 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ac71fd6cd72b4003573d207@bocconi-planner
-DTSTAMP:20261008T044642Z
-LAST-MODIFIED:20261008T044642Z
+DTSTAMP:20261023T100031Z
+LAST-MODIFIED:20261023T100031Z
 DTSTART:20261024T110000Z
 DTEND:20261024T120000Z
-SUMMARY:Extracurricular Activity: Guest Lecture - HDFC - Red Batch & (BTC &
-  Finance both Primary only) - Classroom 7
+SUMMARY:Extracurricular Activity: PlaceCom GL - HDFC GL | Nisha Kandir | Re
+ d batch + Finance & BTC Primary members - Classroom 7
 LOCATION:Classroom 7 - SDA Asia center
-DESCRIPTION:Note: Guest Lecture - HDFC - Red Batch & (BTC & Finance both Pr
- imary only) - Classroom 7
+DESCRIPTION:Note: PlaceCom GL - HDFC GL | Nisha Kandir | Red batch + Financ
+ e & BTC Primary members - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6adb37ec614ec700e0071960@bocconi-planner
+DTSTAMP:20261023T103533Z
+LAST-MODIFIED:20261023T103533Z
+DTSTART:20261024T114500Z
+DTEND:20261024T124500Z
+SUMMARY:Extracurricular Activity: GL - ROHINI AGARWAL\, NPCI -  MANDATORY F
+ OR BLUE BATCH AND HR CLUB PRIMARY AND SECONDARY MEMBERS - CLASSROOM 10
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: GL - ROHINI AGARWAL\, NPCI -  MANDATORY FOR BLUE BATCH AN
+ D HR CLUB PRIMARY AND SECONDARY MEMBERS - CLASSROOM 10
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6abce935ac9b9b0014b152b5@bocconi-planner
-DTSTAMP:20260930T104937Z
-LAST-MODIFIED:20260930T104937Z
+DTSTAMP:20261023T111904Z
+LAST-MODIFIED:20261023T111904Z
 DTSTART:20261024T120000Z
 DTEND:20261024T130000Z
 SUMMARY:Extracurricular Activity: L&D Session for Operations Club Mandatory
-  for Primary & Secondary members - Classroom 1
+  for Primary & Secondary members - Classroom 2
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Note: L&D Session for Operations Club Mandatory for Primary & S
- econdary members - Classroom 1
+ econdary members - Classroom 2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -872,17 +874,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ad09540e6f57900cc58e01a@bocconi-planner
-DTSTAMP:20261015T085756Z
-LAST-MODIFIED:20261015T085756Z
+DTSTAMP:20261023T100208Z
+LAST-MODIFIED:20261023T100208Z
 DTSTART:20261026T110000Z
 DTEND:20261026T123000Z
-SUMMARY:Extracurricular Activity: GL- RBI Monetary Policy & Bond Markets: H
- ow Interest Rates Drive Bond Prices\, Yields and Investment Decisions - Fi
- nance Club both primary and secondary members - Classroom 7
+SUMMARY:Extracurricular Activity: PlaceCom GL - SBI | Pradeep Manshani | Bl
+ ue + Finance Primary and Secondary members both  - Classroom 7
 LOCATION:Classroom 7 - SDA Asia center
-DESCRIPTION:Note: GL- RBI Monetary Policy & Bond Markets: How Interest Rate
- s Drive Bond Prices\, Yields and Investment Decisions - Finance Club both 
- primary and secondary members - Classroom 7
+DESCRIPTION:Note: PlaceCom GL - SBI | Pradeep Manshani | Blue + Finance Pri
+ mary and Secondary members both  - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -909,13 +909,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ad1eb3a52dadc0019ddbff4@bocconi-planner
-DTSTAMP:20261016T091624Z
-LAST-MODIFIED:20261016T091624Z
+DTSTAMP:20261023T112109Z
+LAST-MODIFIED:20261023T112109Z
 DTSTART:20261027T113000Z
 DTEND:20261027T123000Z
-SUMMARY:Extracurricular Activity: PRE PLACEMENT TALK - ALL 4 BATCHES
+SUMMARY:Extracurricular Activity: PlaceCom GL -  Uniqus Consulting | Shaban
+ a Hakim | Red + Yellow - Classroom 7
 LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: PRE PLACEMENT TALK - ALL 4 BATCHES
+DESCRIPTION:Note: PlaceCom GL -  Uniqus Consulting | Shabana Hakim | Red + 
+ Yellow - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1054,6 +1056,17 @@ DTEND:20261103T063000Z
 SUMMARY:Marketing & Customer Centricity
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Armando Cirrincione
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6adaf819aef0c8017e5ffadc@bocconi-planner
+DTSTAMP:20261023T060153Z
+LAST-MODIFIED:20261023T060153Z
+DTSTART:20261104T054500Z
+DTEND:20261104T074500Z
+SUMMARY:Financial Reporting
+LOCATION:Classroom 4 - SDA Asia center
+DESCRIPTION:Professor: Chandan Dasgupta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1197,6 +1210,19 @@ DTEND:20261121T053000Z
 SUMMARY:Financial Reporting
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Professor: Chandan Dasgupta
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6adaf72fc79412017a65c1f9@bocconi-planner
+DTSTAMP:20261023T055817Z
+LAST-MODIFIED:20261023T055817Z
+DTSTART:20261121T084500Z
+DTEND:20261121T094500Z
+SUMMARY:Extracurricular Activity: Guest Lecture - Primary and Secondary mem
+ bers of BTC + Green Batch - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: Guest Lecture - Primary and Secondary members of BTC + Gr
+ een Batch - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
