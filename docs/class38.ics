@@ -860,19 +860,6 @@ DESCRIPTION:Professor: Massimo Magni
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6acc60af2ade260028f0932d@bocconi-planner
-DTSTAMP:20261012T042332Z
-LAST-MODIFIED:20261012T042332Z
-DTSTART:20261026T110000Z
-DTEND:20261026T120000Z
-SUMMARY:Extracurricular Activity: L&D session - Consulting Club - IMB9 All 
- Batches - Classroom 8
-LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: L&D session - Consulting Club - IMB9 All Batches - Classr
- oom 8
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6ad09540e6f57900cc58e01a@bocconi-planner
 DTSTAMP:20261023T100208Z
 LAST-MODIFIED:20261023T100208Z
@@ -883,6 +870,19 @@ SUMMARY:Extracurricular Activity: PlaceCom GL - SBI | Pradeep Manshani | Bl
 LOCATION:Classroom 7 - SDA Asia center
 DESCRIPTION:Note: PlaceCom GL - SBI | Pradeep Manshani | Blue + Finance Pri
  mary and Secondary members both  - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6adeda33d5918001c49524ef@bocconi-planner
+DTSTAMP:20261026T044436Z
+LAST-MODIFIED:20261026T044436Z
+DTSTART:20261026T120000Z
+DTEND:20261026T130000Z
+SUMMARY:Extracurricular Activity: L&D session - HR Club  - Primary and Seco
+ ndary members - Classroom 4
+LOCATION:Classroom 4 - SDA Asia center
+DESCRIPTION:Note: L&D session - HR Club  - Primary and Secondary members - 
+ Classroom 4
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -965,6 +965,19 @@ DESCRIPTION:Professor: Armando Cirrincione
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6adf00bda041ab01ce9027a4@bocconi-planner
+DTSTAMP:20261026T072755Z
+LAST-MODIFIED:20261026T072755Z
+DTSTART:20261029T110000Z
+DTEND:20261029T120000Z
+SUMMARY:Extracurricular Activity: L&D session - Consulting Club - IMB9 All 
+ Batches - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: L&D session - Consulting Club - IMB9 All Batches - Classr
+ oom 8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6a1e71698ec7010014c4be7e@bocconi-planner
 DTSTAMP:20260602T060133Z
 LAST-MODIFIED:20260602T060133Z
@@ -1026,17 +1039,6 @@ DESCRIPTION:Note: L&D session - Consulting Club - IMB9 All Batches - Classr
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6abca39d84a7b200192c5baf@bocconi-planner
-DTSTAMP:20260930T055238Z
-LAST-MODIFIED:20260930T055238Z
-DTSTART:20261101T043000Z
-DTEND:20261101T113000Z
-SUMMARY:Extracurricular Activity: Luxury Event - Classroom 7
-LOCATION:Classroom 7 - SDA Asia center
-DESCRIPTION:Note: Luxury Event - Classroom 7
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6a1e77ec8ec7010014c4be86@bocconi-planner
 DTSTAMP:20260602T062851Z
 LAST-MODIFIED:20260602T062851Z
@@ -1056,6 +1058,19 @@ DTEND:20261103T063000Z
 SUMMARY:Marketing & Customer Centricity
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Armando Cirrincione
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6adedf47aef0c8017e601f14@bocconi-planner
+DTSTAMP:20261026T053416Z
+LAST-MODIFIED:20261026T053416Z
+DTSTART:20261103T110000Z
+DTEND:20261103T123000Z
+SUMMARY:Extracurricular Activity: E- Cell Guest Lecture | Ingenious Works -
+  E Cell Members + Consulting Primary + Secondary Members - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: E- Cell Guest Lecture | Ingenious Works - E Cell Members 
+ + Consulting Primary + Secondary Members - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1223,6 +1238,19 @@ SUMMARY:Extracurricular Activity: Guest Lecture - Primary and Secondary mem
 LOCATION:Classroom 7 - SDA Asia center
 DESCRIPTION:Note: Guest Lecture - Primary and Secondary members of BTC + Gr
  een Batch - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6acc5f8bc7e7bf0028d77f18@bocconi-planner
+DTSTAMP:20261026T071028Z
+LAST-MODIFIED:20261026T071028Z
+DTSTART:20261122T033000Z
+DTEND:20261122T100000Z
+SUMMARY:Extracurricular Activity: SALES AND MARKETING CLUB - EVENT - Sales 
+ And Marketing Primary Members - Classroom 7
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: SALES AND MARKETING CLUB - EVENT - Sales And Marketing Pr
+ imary Members - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
