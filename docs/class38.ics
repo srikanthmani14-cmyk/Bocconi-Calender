@@ -908,16 +908,16 @@ DESCRIPTION:Professor: Armando Cirrincione
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6ad1eb3a52dadc0019ddbff4@bocconi-planner
-DTSTAMP:20261023T112109Z
-LAST-MODIFIED:20261023T112109Z
-DTSTART:20261027T113000Z
-DTEND:20261027T123000Z
-SUMMARY:Extracurricular Activity: PlaceCom GL -  Uniqus Consulting | Shaban
- a Hakim | Red + Yellow - Classroom 7
-LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: PlaceCom GL -  Uniqus Consulting | Shabana Hakim | Red + 
- Yellow - Classroom 7
+UID:6ae0629886175c01c59d39eb@bocconi-planner
+DTSTAMP:20261027T083717Z
+LAST-MODIFIED:20261027T083717Z
+DTSTART:20261027T110000Z
+DTEND:20261027T130000Z
+SUMMARY:Extracurricular Activity: Jio Creative Labs | Preparation Session b
+ y Learning & Development Team - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: Jio Creative Labs | Preparation Session by Learning & Dev
+ elopment Team - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -932,11 +932,11 @@ DESCRIPTION:Professor: Armando Cirrincione
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6a1e70f67169260019d39496@bocconi-planner
-DTSTAMP:20260602T055900Z
-LAST-MODIFIED:20260602T055900Z
-DTSTART:20261028T073000Z
-DTEND:20261028T103000Z
+UID:6ae020e54c8f6c020375c7f6@bocconi-planner
+DTSTAMP:20261027T041021Z
+LAST-MODIFIED:20261027T041021Z
+DTSTART:20261028T070000Z
+DTEND:20261028T093000Z
 SUMMARY:Managing People In Organisations
 LOCATION:Classroom 4 - SDA Asia center
 DESCRIPTION:Professor: Massimo Magni
@@ -1023,6 +1023,30 @@ DTEND:20261031T063000Z
 SUMMARY:Marketing & Customer Centricity
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Armando Cirrincione
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae01f18db1b790221491064@bocconi-planner
+DTSTAMP:20261027T034929Z
+LAST-MODIFIED:20261027T034929Z
+DTSTART:20261031T073000Z
+DTEND:20261031T083000Z
+SUMMARY:Extracurricular Activity: Hult Prize GL session - Yellow & Red Batc
+ h - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: Hult Prize GL session - Yellow & Red Batch - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae01f5c86175c01c59d33c2@bocconi-planner
+DTSTAMP:20261027T035011Z
+LAST-MODIFIED:20261027T035011Z
+DTSTART:20261031T073000Z
+DTEND:20261031T083000Z
+SUMMARY:Teaching Activity: Hult Prize GL session - Yellow & Red Batch - Cla
+ ssroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: Hult Prize GL session - Yellow & Red Batch - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
