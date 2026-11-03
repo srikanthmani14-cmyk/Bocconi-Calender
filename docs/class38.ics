@@ -1122,16 +1122,28 @@ DESCRIPTION:Professor: Armando Cirrincione
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae836970ad56200196fb3b5@bocconi-planner
+DTSTAMP:20261102T070757Z
+LAST-MODIFIED:20261102T070757Z
+DTSTART:20261103T033000Z
+DTEND:20261103T123000Z
+SUMMARY:Extracurricular Activity: Rustomjee - Process - CR7\,8\,10\,MR1 & M
+ R2
+LOCATION:Classroom 1 - SDA Asia center
+DESCRIPTION:Note: Rustomjee - Process - CR7\,8\,10\,MR1 & MR2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae1893086175c01c59d596b@bocconi-planner
-DTSTAMP:20261028T053420Z
-LAST-MODIFIED:20261028T053420Z
+DTSTAMP:20261102T062135Z
+LAST-MODIFIED:20261102T062135Z
 DTSTART:20261103T073000Z
 DTEND:20261103T110000Z
 SUMMARY:Extracurricular Activity: KPMG - Python for Data Science - Red + Ye
- llow - Classroom 8
+ llow - Classroom 4
 LOCATION:Classroom 8 - SDA Asia center
 DESCRIPTION:Note: KPMG - Python for Data Science - Red + Yellow - Classroom
-  8
+  4
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1145,6 +1157,30 @@ SUMMARY:Extracurricular Activity: E- Cell Guest Lecture | Ingenious Works -
 LOCATION:Classroom 7 - SDA Asia center
 DESCRIPTION:Note: E- Cell Guest Lecture | Ingenious Works - E Cell Members 
  + Consulting Primary + Secondary Members - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae835a43c17ef0014c4fd18@bocconi-planner
+DTSTAMP:20261102T070503Z
+LAST-MODIFIED:20261102T070503Z
+DTSTART:20261104T043000Z
+DTEND:20261104T050000Z
+SUMMARY:Extracurricular Activity: Briefing by Shubra Mam - Yellow Batch - C
+ lassroom 2
+LOCATION:Classroom 1 - SDA Asia center
+DESCRIPTION:Note: Briefing by Shubra Mam - Yellow Batch - Classroom 2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae8363e8596e300194fb655@bocconi-planner
+DTSTAMP:20261102T071447Z
+LAST-MODIFIED:20261102T071447Z
+DTSTART:20261104T050000Z
+DTEND:20261104T054000Z
+SUMMARY:Extracurricular Activity: Briefing By Prof.Anjana mam - Yellow Batc
+ h - Classroom 2
+LOCATION:Classroom 1 - SDA Asia center
+DESCRIPTION:Note: Briefing By Prof.Anjana mam - Yellow Batch - Classroom 2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1283,6 +1319,17 @@ DESCRIPTION:Professor: Paola Bielli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae867be0ad56200196fc09b@bocconi-planner
+DTSTAMP:20261102T103737Z
+LAST-MODIFIED:20261102T103737Z
+DTSTART:20261117T040000Z
+DTEND:20261117T070000Z
+SUMMARY:Business Communication Ii Workshop
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Professor: Seema Khanvilkar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae18a6967406701f9a81d4a@bocconi-planner
 DTSTAMP:20261028T053917Z
 LAST-MODIFIED:20261028T053917Z
@@ -1337,6 +1384,19 @@ DTEND:20261119T093000Z
 SUMMARY:Management Of Information Systems
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Professor: Paola Bielli
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae82b8828b0730058296311@bocconi-planner
+DTSTAMP:20261102T062006Z
+LAST-MODIFIED:20261102T062006Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Teaching Activity: L&D Session - Consulting Club - Mandatory for pr
+ imary and optional for others - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
+  optional for others - Classroom 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1502,13 +1562,28 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae32893b13dd30237b88cc5@bocconi-planner
-DTSTAMP:20261029T110626Z
-LAST-MODIFIED:20261029T110626Z
+DTSTAMP:20261102T061349Z
+LAST-MODIFIED:20261102T061349Z
 DTSTART:20261128T110000Z
 DTEND:20261128T120000Z
-SUMMARY:Extracurricular Activity: Consulting Club
+SUMMARY:Extracurricular Activity: Guest Lecture - Consulting Club - primary
+  and secondary - Classroom 7
 LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: Consulting Club
+DESCRIPTION:Note: Guest Lecture - Consulting Club - primary and secondary -
+  Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae83b8a76ef1b0019c830cf@bocconi-planner
+DTSTAMP:20261102T072934Z
+LAST-MODIFIED:20261102T072934Z
+DTSTART:20261128T120000Z
+DTEND:20261128T130000Z
+SUMMARY:Extracurricular Activity: BTC Session - Primary and Secondary membe
+ rs of BTC - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: BTC Session - Primary and Secondary members of BTC - Clas
+ sroom 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1521,6 +1596,19 @@ SUMMARY:Extracurricular Activity: EVENT - OPS  CLUB - OPS EXCHANGE - FULL C
  LASS
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Note: EVENT - OPS  CLUB - OPS EXCHANGE - FULL CLASS
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae8372f3c17ef0014c4fd28@bocconi-planner
+DTSTAMP:20261102T071008Z
+LAST-MODIFIED:20261102T071008Z
+DTSTART:20261130T110000Z
+DTEND:20261130T120000Z
+SUMMARY:Teaching Activity: L&D Session - Consulting Club - Mandatory for pr
+ imary and optional for others - Classroom 10
+LOCATION:Classroom 10 - SDA Asia center
+DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
+  optional for others - Classroom 10
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1636,6 +1724,19 @@ DESCRIPTION:Professor: Alessandro Recla
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae8376d76ef1b0019c8303e@bocconi-planner
+DTSTAMP:20261102T071103Z
+LAST-MODIFIED:20261102T071103Z
+DTSTART:20261204T110000Z
+DTEND:20261204T120000Z
+SUMMARY:Teaching Activity: L&D Session - Consulting Club - Mandatory for pr
+ imary and optional for others - Classroom 7
+LOCATION:Classroom 10 - SDA Asia center
+DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
+  optional for others - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae41f8d7d24790019f67343@bocconi-planner
 DTSTAMP:20261030T044002Z
 LAST-MODIFIED:20261030T044002Z
@@ -1704,6 +1805,20 @@ SUMMARY:Extracurricular Activity: Niva Bupa Health Insurance - Joint Certif
 LOCATION:Classroom 7 - SDA Asia center
 DESCRIPTION:Note: Niva Bupa Health Insurance - Joint Certification Programm
  e (JCP 3.0)
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae840ffcd3a660019cce65b@bocconi-planner
+DTSTAMP:20261102T075248Z
+LAST-MODIFIED:20261102T075248Z
+DTSTART:20261207T120000Z
+DTEND:20261207T130000Z
+SUMMARY:Extracurricular Activity: Guest Lecture - Consulting Club - mandato
+ ry for primary  and secondary members and optional for others - Classroom 
+ 10
+LOCATION:Classroom 10 - SDA Asia center
+DESCRIPTION:Note: Guest Lecture - Consulting Club - mandatory for primary  
+ and secondary members and optional for others - Classroom 10
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1854,6 +1969,19 @@ DTEND:20261212T053000Z
 SUMMARY:Financial Reporting
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Professor: Chandan Dasgupta
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae82a80cd3a660019cce448@bocconi-planner
+DTSTAMP:20261102T061700Z
+LAST-MODIFIED:20261102T061700Z
+DTSTART:20261212T110000Z
+DTEND:20261212T120000Z
+SUMMARY:Teaching Activity: L&D Session - Consulting Club - Mandatory for pr
+ imary and optional for others - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
+  optional for others - Classroom 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
