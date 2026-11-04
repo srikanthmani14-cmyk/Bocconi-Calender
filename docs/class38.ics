@@ -1147,19 +1147,6 @@ DESCRIPTION:Note: KPMG - Python for Data Science - Red + Yellow - Classroom
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6adedf47aef0c8017e601f14@bocconi-planner
-DTSTAMP:20261026T053416Z
-LAST-MODIFIED:20261026T053416Z
-DTSTART:20261103T110000Z
-DTEND:20261103T123000Z
-SUMMARY:Extracurricular Activity: E- Cell Guest Lecture | Ingenious Works -
-  E Cell Members + Consulting Primary + Secondary Members - Classroom 7
-LOCATION:Classroom 7 - SDA Asia center
-DESCRIPTION:Note: E- Cell Guest Lecture | Ingenious Works - E Cell Members 
- + Consulting Primary + Secondary Members - Classroom 7
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6ae835a43c17ef0014c4fd18@bocconi-planner
 DTSTAMP:20261102T070503Z
 LAST-MODIFIED:20261102T070503Z
@@ -1342,6 +1329,19 @@ DESCRIPTION:Note: KPMG - DBMS using SQL - Green + Yellow - Classroom 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae96eefaadc5100199d89b6@bocconi-planner
+DTSTAMP:20261103T052027Z
+LAST-MODIFIED:20261103T052027Z
+DTSTART:20261117T120000Z
+DTEND:20261117T130000Z
+SUMMARY:Teaching Activity: Guest Lecture - Finance club - Mandatory for Pri
+ mary & Secondary member - Classroom 7
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: Guest Lecture - Finance club - Mandatory for Primary & Se
+ condary member - Classroom 7
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6a1eb204d10e410014be9f33@bocconi-planner
 DTSTAMP:20260602T103705Z
 LAST-MODIFIED:20260602T103705Z
@@ -1350,6 +1350,21 @@ DTEND:20261118T063000Z
 SUMMARY:Management Of Information Systems
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Professor: Paola Bielli
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae97d101d60330014ae0c3e@bocconi-planner
+DTSTAMP:20261103T062146Z
+LAST-MODIFIED:20261103T062146Z
+DTSTART:20261118T093000Z
+DTEND:20261118T103000Z
+SUMMARY:Teaching Activity: PlaceCom GL | Native | Supreet Singh - Topic: Ca
+ reers in Finance - Batches: KPMG Core students of Blue\, KPMG Domain stude
+ nts of Green and Yellow - Classroom 7
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: PlaceCom GL | Native | Supreet Singh - Topic: Careers in 
+ Finance - Batches: KPMG Core students of Blue\, KPMG Domain students of Gr
+ een and Yellow - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1387,6 +1402,17 @@ DESCRIPTION:Professor: Paola Bielli
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae969d2d10435001a036e24@bocconi-planner
+DTSTAMP:20261103T045829Z
+LAST-MODIFIED:20261103T045829Z
+DTSTART:20261119T073000Z
+DTEND:20261119T103000Z
+SUMMARY:Business Communication Ii Workshop
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Professor: Seema Khanvilkar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6ae82b8828b0730058296311@bocconi-planner
 DTSTAMP:20261102T062006Z
 LAST-MODIFIED:20261102T062006Z
@@ -1397,6 +1423,30 @@ SUMMARY:Teaching Activity: L&D Session - Consulting Club - Mandatory for pr
 LOCATION:Classroom 8 - SDA Asia center
 DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
   optional for others - Classroom 8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae9be25d10435001a037edc@bocconi-planner
+DTSTAMP:20261103T105834Z
+LAST-MODIFIED:20261103T105834Z
+DTSTART:20261119T110000Z
+DTEND:20261119T120000Z
+SUMMARY:Teaching Activity: L&D Session - HR Workforce Club - Primary Member
+ s of the HR Workforce Club - Classroom 4
+LOCATION:Classroom 4 - SDA Asia center
+DESCRIPTION:Note: L&D Session - HR Workforce Club - Primary Members of the 
+ HR Workforce Club - Classroom 4
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae97df2d10435001a036e4b@bocconi-planner
+DTSTAMP:20261103T062416Z
+LAST-MODIFIED:20261103T062416Z
+DTSTART:20261120T073000Z
+DTEND:20261120T093000Z
+SUMMARY:Business Communication Ii Workshop
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Professor: Seema Khanvilkar
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,6 +1480,19 @@ DTEND:20261121T053000Z
 SUMMARY:Financial Reporting
 LOCATION:Classroom 1 - SDA Asia center
 DESCRIPTION:Professor: Chandan Dasgupta
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae97dcfad5f960014df0872@bocconi-planner
+DTSTAMP:20261103T062412Z
+LAST-MODIFIED:20261103T062412Z
+DTSTART:20261121T063000Z
+DTEND:20261121T073000Z
+SUMMARY:Extracurricular Activity: PlaceCom GL | Alembic Pharma | Lavneet La
+ mba -  - Batches: Yellow and Blue - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: PlaceCom GL | Alembic Pharma | Lavneet Lamba -  - Batches
+ : Yellow and Blue - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1772,6 +1835,19 @@ DESCRIPTION:Professor: Chandan Dasgupta
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae96b6fad5f960014df0849@bocconi-planner
+DTSTAMP:20261103T050534Z
+LAST-MODIFIED:20261103T050534Z
+DTSTART:20261205T110000Z
+DTEND:20261205T120000Z
+SUMMARY:Extracurricular Activity: BTC Session - Mandatory for Primary and S
+ econdary members of BTC - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: BTC Session - Mandatory for Primary and Secondary members
+  of BTC - Classroom 8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6ad5da9ebeceea015cb73975@bocconi-planner
 DTSTAMP:20261019T085536Z
 LAST-MODIFIED:20261019T085536Z
@@ -1985,6 +2061,30 @@ DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6ae96baef488cc0014c6d7b7@bocconi-planner
+DTSTAMP:20261103T050603Z
+LAST-MODIFIED:20261103T050603Z
+DTSTART:20261212T120000Z
+DTEND:20261212T130000Z
+SUMMARY:Extracurricular Activity: BTC Session - Mandatory for Primary and S
+ econdary members of BTC - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: BTC Session - Mandatory for Primary and Secondary members
+  of BTC - Classroom 8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae96f44e3aa7d0014d560f4@bocconi-planner
+DTSTAMP:20261103T052158Z
+LAST-MODIFIED:20261103T052158Z
+DTSTART:20261213T033000Z
+DTEND:20261213T123000Z
+SUMMARY:Teaching Activity: Finance Day - Event
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: Finance Day - Event
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6a210d80d5c1030019db873f@bocconi-planner
 DTSTAMP:20260604T053101Z
 LAST-MODIFIED:20260604T053101Z
@@ -2116,6 +2216,19 @@ DTEND:20261219T103000Z
 SUMMARY:Financial Reporting
 LOCATION:Classroom 2 - SDA Asia center
 DESCRIPTION:Professor: Chandan Dasgupta
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ae96bcaad5f960014df084d@bocconi-planner
+DTSTAMP:20261103T050628Z
+LAST-MODIFIED:20261103T050628Z
+DTSTART:20261219T110000Z
+DTEND:20261219T120000Z
+SUMMARY:Extracurricular Activity: BTC Session - Mandatory for Primary and S
+ econdary members of BTC - Classroom 8
+LOCATION:Classroom 8 - SDA Asia center
+DESCRIPTION:Note: BTC Session - Mandatory for Primary and Secondary members
+  of BTC - Classroom 8
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
