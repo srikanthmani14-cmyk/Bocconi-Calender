@@ -1437,15 +1437,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae82b8828b0730058296311@bocconi-planner
-DTSTAMP:20261102T062006Z
-LAST-MODIFIED:20261102T062006Z
+DTSTAMP:20261116T052712Z
+LAST-MODIFIED:20261116T052712Z
 DTSTART:20261119T110000Z
 DTEND:20261119T120000Z
-SUMMARY:Teaching Activity: L&D Session - Consulting Club - Mandatory for pr
- imary and optional for others - Classroom 8
+SUMMARY:Teaching Activity: Alumni Session - Consulting Club - Mandatory for
+  primary and optional for others - Classroom 10
 LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: L&D Session - Consulting Club - Mandatory for primary and
-  optional for others - Classroom 8
+DESCRIPTION:Note: Alumni Session - Consulting Club - Mandatory for primary 
+ and optional for others - Classroom 10
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
