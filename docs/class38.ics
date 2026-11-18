@@ -1379,14 +1379,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6af552e61d60330014aef448@bocconi-planner
-DTSTAMP:20261112T054755Z
-LAST-MODIFIED:20261112T054755Z
+DTSTAMP:20261118T030626Z
+LAST-MODIFIED:20261118T030626Z
 DTSTART:20261118T100000Z
 DTEND:20261118T130000Z
 SUMMARY:Teaching Activity: KPMG - DBMS using SQL - YELLOW + RED - B2 - Clas
- sroom 8
+ sroom 2
 LOCATION:Classroom 4 - SDA Asia center
-DESCRIPTION:Note: KPMG - DBMS using SQL - YELLOW + RED - B2 - Classroom 8
+DESCRIPTION:Note: KPMG - DBMS using SQL - YELLOW + RED - B2 - Classroom 2
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1424,15 +1424,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae82b8828b0730058296311@bocconi-planner
-DTSTAMP:20261116T052712Z
-LAST-MODIFIED:20261116T052712Z
+DTSTAMP:20261117T102226Z
+LAST-MODIFIED:20261117T102226Z
 DTSTART:20261119T110000Z
 DTEND:20261119T120000Z
-SUMMARY:Teaching Activity: Alumni Session - Consulting Club - Mandatory for
-  primary and optional for others - Classroom 10
+SUMMARY:Teaching Activity: Alumni Session - Consulting Club -  Ms.Arunima L
+ al Mandatory for primary and optional for others - Classroom 7
 LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: Alumni Session - Consulting Club - Mandatory for primary 
- and optional for others - Classroom 10
+DESCRIPTION:Note: Alumni Session - Consulting Club -  Ms.Arunima Lal Mandat
+ ory for primary and optional for others - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1506,19 +1506,6 @@ DESCRIPTION:Note: Guest Lecture - Primary and Secondary members of BTC + Gr
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6acc5f8bc7e7bf0028d77f18@bocconi-planner
-DTSTAMP:20261026T071028Z
-LAST-MODIFIED:20261026T071028Z
-DTSTART:20261122T033000Z
-DTEND:20261122T100000Z
-SUMMARY:Extracurricular Activity: SALES AND MARKETING CLUB - EVENT - Sales 
- And Marketing Primary Members - Classroom 7
-LOCATION:Classroom 8 - SDA Asia center
-DESCRIPTION:Note: SALES AND MARKETING CLUB - EVENT - Sales And Marketing Pr
- imary Members - Classroom 7
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6a1faded8ec7010014c4c110@bocconi-planner
 DTSTAMP:20260603T043058Z
 LAST-MODIFIED:20260603T043058Z
@@ -1538,6 +1525,19 @@ DTEND:20261123T093000Z
 SUMMARY:Business Communication Ii Workshop
 LOCATION:Classroom 4 - SDA Asia center
 DESCRIPTION:Professor: Seema Khanvilkar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6afc341a01804c01618514cd@bocconi-planner
+DTSTAMP:20261117T110855Z
+LAST-MODIFIED:20261117T110855Z
+DTSTART:20261123T110000Z
+DTEND:20261123T120000Z
+SUMMARY:Management Of Information Systems
+LOCATION:Classroom 1 - SDA Asia center
+DESCRIPTION:Professor: Paola Bielli\nNote: Mandatory GL- MIS Module- GREEN\
+ , BLUE\, RED & YELLOW- Full Class- Online- Link uploaded on Blackboard- KP
+ MG students will be excused
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1920,6 +1920,19 @@ SUMMARY:Extracurricular Activity: BTC Session - Mandatory for Primary and S
 LOCATION:Classroom 8 - SDA Asia center
 DESCRIPTION:Note: BTC Session - Mandatory for Primary and Secondary members
   of BTC - Classroom 8
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6afd42c9793e580177f23f81@bocconi-planner
+DTSTAMP:20261118T061735Z
+LAST-MODIFIED:20261118T061735Z
+DTSTART:20261205T110000Z
+DTEND:20261205T130000Z
+SUMMARY:Extracurricular Activity: HR Workforce Club - HR Guest Workshop - I
+ MB9 Red & Yellow - Classroom 7
+LOCATION:Classroom 7 - SDA Asia center
+DESCRIPTION:Note: HR Workforce Club - HR Guest Workshop - IMB9 Red & Yellow
+  - Classroom 7
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
